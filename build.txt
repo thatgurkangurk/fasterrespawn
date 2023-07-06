@@ -1,3 +1,4 @@
 displayName = Faster Respawn
 author = Gurkan
 version = 0.1
+homepage = https://github.com/thatgurkangurk/fasterrespawn
