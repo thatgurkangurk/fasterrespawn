@@ -1,0 +1,3 @@
+displayName = Faster Respawn
+author = Gurkan
+version = 0.1
