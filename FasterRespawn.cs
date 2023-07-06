@@ -3,9 +3,9 @@ using Terraria.ModLoader;
 
 namespace FastRespawn
 {
-    public class FastRespawn : Mod
+    public class FasterRespawn : Mod
     {
-        public class FastRespawnPlayer : ModPlayer
+        public class FasterRespawnPlayer : ModPlayer
         {
 
             public override void Kill(double damage, int hitDirection, bool pvp, PlayerDeathReason damageSource)
