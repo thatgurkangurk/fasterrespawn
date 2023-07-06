@@ -1,7 +1,7 @@
 using Terraria.DataStructures;
 using Terraria.ModLoader;
 
-namespace FastRespawn
+namespace FasterRespawn
 {
     public class FasterRespawn : Mod
     {
